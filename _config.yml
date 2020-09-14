@@ -1,11 +1,11 @@
 # Site settings
 author: Plimon Howard V
-title: 
+title: Plimon's Blog
 header-img: img/home-bg.png
 email: plimon.howard@gmail.com
 copyright_name: Plimon Howard V
 description: > # this means to ignore newlines until "baseurl:"
-  
+  A blog to keep up with me during my time at Flatiron.
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  plimhoward123
